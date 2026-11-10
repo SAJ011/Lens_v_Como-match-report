@@ -13,7 +13,7 @@ Data analysis and visualisation of **Lens v Como** (UEFA Champions League 2026/2
 | `Match_Report.ipynb` | The finished report: every chart as a reusable `draw_...` function, combined into the figure above, with a man-of-the-match panel and key takeaways. | [View](https://nbviewer.org/github/SAJ011/Lens_v_Como-match-report/blob/main/Match_Report.ipynb) |
 | `Lens_vs_Como.ipynb` | The working notebook. Downloads the match events and builds each chart step by step: shot map, passing networks, pass end zones, chance creation, progressive passes, Zone 14, high turnovers, expected threat, and Tasos Douvikas's performance. | [View](https://nbviewer.org/github/SAJ011/Lens_v_Como-match-report/blob/main/Lens_vs_Como.ipynb) |
 
-The nbviewer links work once the repository is public. Other files: `Lens_Como.csv` (the 1,736 match events, so the notebooks run without re-scraping), `match_report.png` (the full report) and `requirements.txt`.
+Other files: `Lens_Como.csv` (the 1,736 match events, so the notebooks run without re-scraping), `match_report.png` (the full report) and `requirements.txt`.
 
 ## Key findings
 
